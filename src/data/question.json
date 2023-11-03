@@ -1,0 +1,62 @@
+[
+  {
+    "question": "What is the capital of Spain?",
+    "options": ["Rome", "Madrid", "Berlin", "Lisbon"],
+    "answer": "Madrid"
+  },
+  {
+    "question": "Who wrote the play 'Romeo and Juliet'?",
+    "options": [
+      "William Shakespeare",
+      "Charles Dickens",
+      "Jane Austen",
+      "George Orwell"
+    ],
+    "answer": "William Shakespeare"
+  },
+  {
+    "question": "Which planet is known as the 'Red Planet'?",
+    "options": ["Jupiter", "Mars", "Venus", "Saturn"],
+    "answer": "Mars"
+  },
+  {
+    "question": "What is the largest mammal on Earth?",
+    "options": ["African Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+    "answer": "Blue Whale"
+  },
+  {
+    "question": "In which year did Christopher Columbus discover America?",
+    "options": ["1492", "1521", "1620", "1776"],
+    "answer": "1492"
+  },
+  {
+    "question": "Who is the author of 'To Kill a Mockingbird'?",
+    "options": ["Harper Lee", "J.K. Rowling", "George Orwell", "Jane Austen"],
+    "answer": "Harper Lee"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "options": ["Au", "Ag", "Fe", "Hg"],
+    "answer": "Au"
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "options": ["Heart", "Liver", "Brain", "Skin"],
+    "answer": "Skin"
+  },
+  {
+    "question": "Which gas is most abundant in Earth's atmosphere?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Methane"],
+    "answer": "Nitrogen"
+  },
+  {
+    "question": "Who is the 44th President of the United States?",
+    "options": [
+      "Barack Obama",
+      "George W. Bush",
+      "Bill Clinton",
+      "Donald Trump"
+    ],
+    "answer": "Barack Obama"
+  }
+]
